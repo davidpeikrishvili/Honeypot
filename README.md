@@ -29,3 +29,8 @@ Some of the Malware that I did find is by using virus total and pasting the Src 
 
 Another one was from this IP where it found 4 Malwares. This one I just uploaded as a png instead of making a whole gif for it.
 ![Done 0](https://user-images.githubusercontent.com/73257917/141664812-2bed1b64-b01a-4dec-b80d-b98ba362ac8a.png)
+
+Challenges Doing this: 
+- The instructions can get confusing and most of the time I spent was trying to figure out why the code/scirpt that I was given was not working, even though I followed instructions precisely.
+ 
+
