@@ -22,3 +22,9 @@ The ones that I used were
 - 1 Cowrie
 
 ![HoneyPot1](https://user-images.githubusercontent.com/73257917/141664575-68c3e32a-225b-462b-a6f8-bc51100d94e7.gif)
+
+Some of the Malware that I did find is by using virus total and pasting the Src IP. Both of the malwares were caught by Dionaea.
+![Malware Part](https://user-images.githubusercontent.com/73257917/141664708-91942409-ea5e-4ceb-a147-34b958a2da52.gif)
+
+Another one was from this IP where it found 4 Malwares. This one I just uploaded as a png instead of making a whole gif for it.
+![Done 0](https://user-images.githubusercontent.com/73257917/141664812-2bed1b64-b01a-4dec-b80d-b98ba362ac8a.png)
