@@ -13,6 +13,7 @@
 
 
 ### Database Backup (Required) 
+**Summary:** The json file that uploaded had all the infromation about the incoming attacks, their IPs and which honeypot trapped them. The RDBMS that MHN-Admin uses is probably SQL database.
 
 
 Both the Gifs use the same method to initialize the VM and set up the honeypot. I skipped the downloading phase because it took up time and it made the gifs larger.
